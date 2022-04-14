@@ -15,6 +15,7 @@ and clone the repository.
 or, manually app the file to the folder [App name]
 
 
+**Then run the following commands:**
 ```bash
   npm start
 ```
