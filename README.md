@@ -12,9 +12,7 @@ and clone the repository.
   npx create-react-app [App name]
   git clone https://github.com/BlamerX/Monster-Rolodex-Code
 ```
-                           ( or )
-
-manually app the file to the folder [App name]
+or, manually app the file to the folder [App name]
 
 
 ```bash
