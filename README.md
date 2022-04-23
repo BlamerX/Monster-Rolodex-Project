@@ -5,7 +5,7 @@ This is a project that is created to learn the basic of React App in the initial
 ## Website Link 🧮
 This site is deployed at
 |----|
-| [Java-Website-Creation-KIIT-Project](https://blamerx.github.io/Monster-Rolodex-Project/) |
+| [Monster-Rolodex-Project](https://blamerx.github.io/Monster-Rolodex-Project/) |
 
 <br>
 
